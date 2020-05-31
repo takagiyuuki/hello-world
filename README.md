@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+
+I'm just study programing and github.
+
